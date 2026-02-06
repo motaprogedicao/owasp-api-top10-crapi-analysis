@@ -1,7 +1,5 @@
-# owasp-api-top10-crapi-analysis
-Practical analysis of OWASP API Security Top 10 (2019) vulnerabilities using crAPI and Burp Suite in a controlled lab environment.
 
-# OWASP API Security Top 10 (2019) — Análise Prática com crAPI
+# Análise das vulnerabilidades OWASP API Security TOP 10 2019 no ambiente virtual crAPI
 
 Este repositório contém uma análise prática e experimental das principais vulnerabilidades
 do **OWASP API Security Top 10 (2019)**, utilizando o ambiente vulnerável **crAPI**
