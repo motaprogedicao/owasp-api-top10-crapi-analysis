@@ -27,5 +27,4 @@ com finalidade acadêmica e educacional.
 
 ##  Autor
 Guilherme Augusto Rodrigues da Silva Mota  
-Análise e Desenvolvimento de Sistemas — FATEC
-
+Análise e Desenvolvimento de Sistemas — FATEC Baixada Santista Rubens Lara
